@@ -1,0 +1,34 @@
+<resources>
+
+    // App Name
+
+    <string name="app_name">Super VPN</string>
+
+
+    <string name="vpn_on">VPN ON</string>
+    <string name="vpn_off">VPN OFF</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="notifiction">@string/app_name</string>
+
+
+    // Drawer Layout Text
+
+    <string name="contact">mmm.rahman77@gmail.com</string>
+    <string name="subject_text">NEED HELP</string>
+    <string name="body_text">Enter your questions here</string>
+    <string name="privacy_url">https://google.com/</string>
+
+
+    // ADMOB ADS CONFIG
+
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_Interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
